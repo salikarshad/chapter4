@@ -1,0 +1,22 @@
+body{
+    font-family: tahoma;
+    font-size: 1.2em;
+}
+div#warraper{
+    margin: 50px auto 0px auto;
+    width: 80%;
+}
+div#warraper > div#button{
+    display: inline-block;
+    line-height: 60px;
+    padding: 0px 30px;
+    border-radius: 25px;
+}
+.black{
+    color: white;
+    background-color: black;
+}
+.white{
+    color: black;
+    background-color: white;
+}
